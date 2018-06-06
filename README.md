@@ -2,17 +2,29 @@
 Good morning/afternoon/evening; Here are a few of the projects I've been working on! Consider this a portfolio of sorts.
 
 ## Current Projects:
-### Overlap - Product Management and UI/UX Design   [\[Prototype\]](https://marvelapp.com/81a9580/screen/39081651).
+
+### Gratifly - Gratitude Journaling app for the modern era [\[Code\]](https://github.com/AndrewOCC/NoMoss-Makers-resilience)
+Created at NoMoss Makers: Resilience, the goal of the project was to help people build resilience. We identified that encouraging a building a positive outlook through gratitude was a great way to do so, but that existing apps were too time consuming, and not rewarding enough to maintain user attention.
+
+Our solution, Gratifly, is a gratitude journalling app designed around easy recording via text or voice, customised questions based on a user's perceived wellbeing, and a Google Photos-style discovery functionality that allows users to reflect on their past emotions and journal responses, when they have time to reflect.
+
+
+[\[Watch me pitch\]](https://youtu.be/JWG2I2tmAR4)
+
+### Overlap - Product Management and UI/UX Design   [\[Prototype\]](https://marvelapp.com/81a9580/screen/39081651).
 Overlap is an in-development social travel platform originally pitched by Chris Pittard in a Digital Entrepreneurship class at USC. We are currently developing the business idea, getting customer feedback, and have built a clickable prototype in Marvel. I took up the role of designer for this project, and the clickable prototype I created can be found [here](https://marvelapp.com/81a9580/screen/39081651).
 
 ![Overlap 1](https://i.imgur.com/mNSEKWW.png)
-![Overlap 1](https://i.imgur.com/iDbImXi.png)
+![Overlap 2](https://i.imgur.com/iDbImXi.png)
 
 ### Cardiac Output Monitor - iOS Development
 I am currently a developer for an upcoming Cardiac Output Monitor device with an iPad head unit. I have been involved with fixing bugs, adding new features (including data export using AirDrop) and some basic UX work to improve the experience for medical professionals using the device.
 
 ### EventIO - Development and UI/UX Design
-EventIO is an early-stage startup providing an event management platform for organisers and participants. I am one of two developers working on an initial prototype, and have created some initial UI designs. 
+EventIO is an early-stage startup providing an event management platform for organisers and participants. I was asked to provide technical advice the team, and design an initial prototype for the web and iOS applications.
+
+[\[iOS Prototyoe\]](https://marvelapp.com/4g7660d)
+[\[Web Prototype\]](https://marvelapp.com/4077j78)
 
 ### Auralnauts - Unity Development
 Auralnauts was a game created at the USC location of the 2018 Global Game Jam. Developed with Unity for Android devices, the game was entirely audio-based, with no on-screen interface. Players are the pilots of a damaged space-ship, and must use the gyroscope on their device to direct their ship, following radio transmissions to find their way back to earth.
